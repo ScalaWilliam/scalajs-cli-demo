@@ -1,3 +1,3 @@
 node_modules/
 target/
-
+bin/scalajs-filter-fastopt.js

@@ -2,8 +2,12 @@
   "name": "scalajs-filter",
   "version": "1.0.0",
   "description": "POC to see if we can publish ScalaJS apps on npmjs.",
-  "main": "index.js",
+  "bin": {
+    "scalajs-filter": "bin/scalajs-filter-fastopt.js"
+  },
+  "main": "bin/scalajs-filter-fastopt.js",
   "scripts": {
+    "dist": "sbt fastOptJS && mkdir -p bin && cp target/scala-2.12/scalajs-filter-fastopt.js ./bin/",
     "test": "sbt test"
   },
   "repository": {
