@@ -1,3 +1,4 @@
 node_modules/
 target/
-bin/scalajs-filter-fastopt.js
+bin/scalajs-cli-demo-opt.js
+*.log
