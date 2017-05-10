@@ -1,0 +1,23 @@
+{
+  "name": "scalajs-filter",
+  "version": "1.0.0",
+  "description": "POC to see if we can publish ScalaJS apps on npmjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "sbt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScalaWilliam/scalajs-filter.git"
+  },
+  "keywords": [
+    "scalajs",
+    "cli"
+  ],
+  "author": "ScalaWilliam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScalaWilliam/scalajs-filter/issues"
+  },
+  "homepage": "https://github.com/ScalaWilliam/scalajs-filter#readme"
+}
