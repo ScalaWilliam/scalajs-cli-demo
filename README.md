@@ -26,9 +26,9 @@ Use the pre-built npmjs package.
 ```
 $ npm install -g scalajs-cli-demo
 $ scalajs-cli-demo
-Hello world!
+Hello world from Scala!
 ----
-Here's your environment:
+To demonstrate we're in Node, here's some of your environment:
 PATH = /home/...
 ```
 

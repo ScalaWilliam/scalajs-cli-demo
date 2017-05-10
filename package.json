@@ -1,6 +1,6 @@
 {
   "name": "scalajs-cli-demo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "POC to see if we can publish ScalaJS apps on npmjs.",
   "bin": {
     "scalajs-cli-demo": "bin/scalajs-cli-demo"
