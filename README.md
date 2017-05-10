@@ -1,10 +1,10 @@
-# Scala.js CLI demo
+# Scala.js CLI demo [![Build Status](https://travis-ci.org/ScalaWilliam/scalajs-cli-demo.svg?branch=master)](https://travis-ci.org/ScalaWilliam/scalajs-cli-demo)
+
+> Publish Scala.js apps through NPM
 
 [![NPM](https://nodei.co/npm/scalajs-cli-demo.png?compact=true)](https://nodei.co/npm/scalajs-cli-demo/)
 
-[![Build Status](https://travis-ci.org/ScalaWilliam/scalajs-cli-demo.svg?branch=master)](https://travis-ci.org/ScalaWilliam/scalajs-cli-demo)
-
-> Publish Scala.js apps through NPM
+## Rationale
  
 Most likely, you've never ran a Scala CLI app, let alone a Scala.js CLI app.
 
