@@ -33,7 +33,7 @@ PATH = /home/...
 ```
 
 ## Development
-I recommend IntelliJ IDEA.
+I recommend IntelliJ IDEA. 
 
 To iterate, inside SBT run:
 ```
@@ -48,7 +48,7 @@ or:
 
 ## Publishing
 Requires SBT.
+
 ```
-$ npm run dist
 $ npm publish
 ```
