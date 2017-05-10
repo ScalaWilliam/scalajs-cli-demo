@@ -1,4 +1,4 @@
 node_modules/
 target/
-bin/scalajs-cli-demo-opt.js
+lib/main.js
 *.log

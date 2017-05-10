@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "description": "POC to see if we can publish ScalaJS apps on npmjs.",
   "bin": {
-    "scalajs-cli-demo": "bin/scalajs-cli-demo-opt.js"
+    "scalajs-cli-demo": "bin/scalajs-cli-demo"
   },
-  "main": "bin/scalajs-cli-demo-fastopt.js",
   "scripts": {
-    "dist": "sbt 'show fullOptJS' && mkdir -p bin && cp target/scala-2.12/scalajs-cli-demo-opt.js ./bin/",
+    "dist": "sbt 'show fullOptJS' && cp target/scala-2.12/scalajs-cli-demo-opt.js ./lib/main.js",
     "test": "sbt test"
   },
   "repository": {
