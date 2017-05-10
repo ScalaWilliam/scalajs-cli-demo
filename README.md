@@ -20,7 +20,8 @@ Here's a demo to show you that it is possible.
 It includes the use of the [Scala.js Node.js strong-typed API](https://github.com/scalajs-io/nodejs)
 by [Lawrence Daniels](https://github.com/ldaniels528).
 
-## Use the pre-built npmjs package
+## Usage
+Use the pre-built npmjs package.
 
 ```
 $ npm install -g scalajs-cli-demo
@@ -32,7 +33,7 @@ PATH = /home/...
 ```
 
 ## Building & publishing
-
+Requires SBT.
 ```
 $ npm run dist
 $ npm publish
