@@ -32,7 +32,21 @@ Here's your environment:
 PATH = /home/...
 ```
 
-## Building & publishing
+## Development
+I recommend IntelliJ IDEA.
+
+To iterate, inside SBT run:
+```
+> ~run
+```
+
+or:
+
+```
+> ~test
+```
+
+## Publishing
 Requires SBT.
 ```
 $ npm run dist
