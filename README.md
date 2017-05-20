@@ -20,6 +20,9 @@ Here's a demo to show you that it is possible.
 It includes the use of the [Scala.js Node.js strong-typed API](https://github.com/scalajs-io/nodejs)
 by [Lawrence Daniels](https://github.com/ldaniels528).
 
+## Forks
+* https://github.com/actionfps/actionfps-clone-logs - combine ScalaJS & EventSource to synchronise logs from HTTP to file.
+
 ## Usage
 Use the pre-built npmjs package.
 
