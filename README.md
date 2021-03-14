@@ -5,7 +5,7 @@
 [![NPM](https://nodei.co/npm/scalajs-cli-demo.png?compact=true)](https://nodei.co/npm/scalajs-cli-demo/)
 
 ## Rationale
- 
+
 Most likely, you've never ran a Scala CLI app, let alone a Scala.js CLI app.
 
 But more likely you have ran Node.js CLI apps. This is because it is super
@@ -24,6 +24,7 @@ by [Lawrence Daniels](https://github.com/ldaniels528).
 * https://github.com/actionfps/actionfps-clone-logs - combine ScalaJS & EventSource to synchronise logs from HTTP to file.
 
 ## Usage
+
 Use the pre-built npmjs package.
 
 ```
@@ -50,7 +51,7 @@ or:
 ```
 
 ## Publishing
-Requires SBT.
+Requires SBT & for you to be logged in on NPM.
 
 ```
 $ npm publish

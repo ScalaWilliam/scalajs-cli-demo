@@ -6,7 +6,7 @@
     "scalajs-cli-demo": "bin/scalajs-cli-demo"
   },
   "scripts": {
-    "prepublish": "sbt 'show fullOptJS' && cp target/scala-2.12/scalajs-cli-demo-opt.js ./lib/main.js",
+    "prepublish": "sbt clean 'show fullOptJS' && cp target/scala-2.12/scalajs-cli-demo-opt.js ./lib/main.js",
     "test": "sbt test"
   },
   "repository": {
